@@ -139,6 +139,12 @@ body {
     background: #D68E81;
 }
 
+.skills p{
+    margin: 0;
+    font-size: 1.2em;
+    padding: 5px;
+}
+
 .education {
     color: black;
     background: #D6AE56;
@@ -270,8 +276,8 @@ h3 {
 
 .button {
     display: inline-block;
-    background-color: #00b0a7;
-    color: white;
+    background-color: #ce2900;
+    color: rgb(221, 221, 221);
     font-weight: bold;
     border: none;
     border-radius: 10px;
@@ -285,7 +291,7 @@ h3 {
 }
 
 .button:hover {
-    background-color: #009c94;
+    background-color: #b32400;
 }
 
 .button:active {
@@ -333,7 +339,7 @@ h3 {
     padding: 5px 0;
     position: absolute;
     z-index: 1;
-    bottom: 150%;
+    bottom: 120%;
     left: 10%;
     margin-left: -60px;
 }
